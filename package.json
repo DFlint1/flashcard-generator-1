@@ -1,0 +1,25 @@
+{
+  "name": "flashcard-generator-1",
+  "version": "1.0.0",
+  "description": "flashcard basic",
+  "main": "FlashcardApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DFlint1/flashcard-generator-1.git"
+  },
+  "author": "Dana Flint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DFlint1/flashcard-generator-1/issues"
+  },
+  "homepage": "https://github.com/DFlint1/flashcard-generator-1#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "request": "^2.79.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {}
+}
